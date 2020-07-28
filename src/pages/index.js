@@ -37,7 +37,7 @@ const { author, social } = data.site.siteMetadata
 
         />
     </div>
-  )
+  );
 
 import Bio from "../components/bio"
 import Layout from "../components/layout"

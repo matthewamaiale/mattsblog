@@ -63,9 +63,10 @@ class Layout extends React.Component {
         <header>{header}</header>
         <main>{children}</main>
         <footer>
-          © {new Date().getFullYear()}, Built with
-          {` `}
-          <a href="https://www.gatsbyjs.org">Gatsby</a>
+         <Link class="highlight2" href="mailto:m@maiale.me" target="_blank">Email</a> ∙ <a class="highlight2" href="https://www.linkedin.com/in/mattmaiale/" target="_blank">LinkedIn</Link>
+  ∙
+	<Link href="https://medium.com/@maiale" target="_blank" class="highlight2">Medium</Link> ∙
+<Link class="highlight2" href="https://www.twitter.com/mattmaiale" target="_blank">Twitter</Link>
         </footer>
       </div>
     )

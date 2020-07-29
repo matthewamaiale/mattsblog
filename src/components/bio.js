@@ -56,7 +56,7 @@ const Bio = () => {
     >
 	    <b>What I'm up to </b>
       <p className="hidden" id="pp2">
-       I took a gap semester in spring 2020 to work at a venture capital fund in San Francisco. After working with tons of awesome investors and founders, I decided to double down and also take off the fall semester to join Demand Curve (YC S19).
+       I took a gap semester in spring 2020 to work at a venture capital fund in San Francisco. After working with tons of awesome investors and founders, I decided to double down and also take off the fall semester to join <Link className="highlight1" href="https://demandcurve.com" target="_blank">Demand Curve (YC S19)</Link>.
 	      </p>
        
     </div>

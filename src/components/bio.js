@@ -54,7 +54,15 @@ const Bio = () => {
         marginBottom: rhythm(2.5),
       }}
     >
-	 <h2><b>What I'm up to </b></h2>
+	 <h3
+ 
+          style={{
+            ...scale(1.5),
+            marginBottom: rhythm(1.5),
+            marginTop: 0,
+          }}
+        >
+><b>What I'm up to </b></h3>
       <p className="hidden" id="pp2">
        I took a gap semester in spring 2020 to work at a venture capital fund in San Francisco. After working with tons of awesome investors and founders, I decided to double down and also take off the fall semester to join <Link className="highlight1" href="https://demandcurve.com" target="_blank">Demand Curve (YC S19)</Link>.
 	      </p>

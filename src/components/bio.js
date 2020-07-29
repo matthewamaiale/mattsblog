@@ -88,6 +88,22 @@ const Bio = () => {
 
         />
     </div>
+
+<h2><b>What I'm up to</b></h2>
+<p style="font-color: black; font-size: 1.24em;">I took a gap semester in spring 2020 to work at a venture capital fund in San Francisco. After working with tons of awesome investors and founders, I decided to double down and also take off the fall semester to join Demand Curve.</p>
+
+<h2><b>Education + learning</b></h2>
+<p style="font-color: black; font-size: 1.24em; ">At Penn State I'm studying Finance + Economics (3.95 gpa, '22), am the President of our <a class="highlight1" target="_blank" href="https://hvcpsu.com/">student-run VC fund</a>, and run club cross country. During my first two summers of college I interned in <a class="highlight1" target="_blank" href="http://chathamfinancial.com/">derivatives consulting</a> and at a <a href="http://joinpuzzl.com" target="_blank" class="highlight1">FinTech</a> startup.</p>
+<h2><b>Interests</b></h2>
+<p style="font-color: black; font-size: 1.24em;">I've an avid distance <a class="highlight1" target="_blank" href="https://www.strava.com/athletes/19065423">runner</a> (9:37 two mile) averaging 45 miles per week. I'm also learning Spanish, play piano, <a class="highlight1" href="https://www.goodreads.com/maiale" target="_blank">read</a> non-fiction and classics, and have been to over <a href="https://docs.google.com/document/d/1GrIVKaveYCPvnJQSQQhxn0pXMeWN-j4DtpuXFBtGqoI/edit?usp=sharing" target="_blank" class="highlight1">30 concerts</a>.</p>
+
+<h2><b>More on me</b></h2>
+<p style="font-color: black; font-size: 1.24em;"><a class="highlight2" href="mailto:m@maiale.me" target="_blank">Email</a> ∙ <a class="highlight2" href="https://www.linkedin.com/in/mattmaiale/" target="_blank">LinkedIn</a>
+  ∙
+	<a href="https://medium.com/@maiale" target="_blank" class="highlight2">Medium</a> ∙
+<a class="highlight2" href="https://www.twitter.com/mattmaiale" target="_blank">Twitter</a>
+
+</p>  </div>
   )
 }
 

@@ -58,18 +58,7 @@ const Bio = () => {
       <p className="hidden" id="pp2">
        I took a gap semester in spring 2020 to work at a venture capital fund in San Francisco. After working with tons of awesome investors and founders, I decided to double down and also take off the fall semester to join Demand Curve (YC S19).
 	      </p>
-        <Image
-          fixed={data.avatar.childImageSharp.fixed}
-          alt={author}
-          style={{
-            marginRight: rhythm(1 / 2),
-            marginBottom: 0,
-            minWidth: "280px",
-            height: "220px",
-	    float: "right",
-          }}
-
-        />
+       
     </div>
 
   )

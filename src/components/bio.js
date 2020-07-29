@@ -66,6 +66,7 @@ const Bio = () => {
             marginBottom: 0,
             minWidth: "280px",
             height: "220px",
+	    float: "right",
           }}
 
         />

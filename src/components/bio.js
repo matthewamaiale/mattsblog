@@ -61,9 +61,10 @@ const Bio = () => {
 	      </p>
   <b>Education + Learning</b>
 <p>At Penn State I'm studying Finance + Economics (3.95 gpa, '22), am the President of our <Link class="highlight1" target="_blank" href="https://hvcpsu.com/">student-run VC fund</Link>, and run club cross country. During my first two summers of college I interned in <Link class="highlight1" target="_blank" href="http://chathamfinancial.com/">derivatives consulting</Link> and at a <Link href="http://joinpuzzl.com" target="_blank" class="highlight1">FinTech</Link> startup.</p>
-    </div>
-<b>Interests</b>
+  <b>Interests</b>
 <p>I've an avid distance <Link class="highlight1" target="_blank" href="https://www.strava.com/athletes/19065423">runner</Link> (9:37 two mile) averaging 45 miles per week. I'm also learning Spanish, play piano, <Link class="highlight1" href="https://www.goodreads.com/maiale" target="_blank">read</Link> non-fiction and classics, and have been to over <Link href="https://docs.google.com/document/d/1GrIVKaveYCPvnJQSQQhxn0pXMeWN-j4DtpuXFBtGqoI/edit?usp=sharing" target="_blank" class="highlight1">30 concerts</Link>.</p>
+  
+</div>
   )
 }
 

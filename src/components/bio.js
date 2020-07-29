@@ -4,13 +4,11 @@
  *
  * See: https://www.gatsbyjs.org/docs/use-static-query/
  */
-
 import React from "react"
 import { useStaticQuery, graphql } from "gatsby"
 import Image from "gatsby-image"
 import styled from "styled-components"
 import { rhythm } from "../utils/typography"
-
 const Link = styled.a`
   background: linear-gradient(181deg,rgba(255,255,255,0) 60%, rgb(225,208,255,.6) 40%);
   border-radius: 17%;
@@ -18,7 +16,6 @@ const Link = styled.a`
   transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
   text-decoration: none;
   box-shadow: none;
-
   &:hover {
     background: linear-gradient(180deg,rgba(255,255,255,0) 60%, rgba(0,87,169, .13) 40%);
     border-radius: 17%;
@@ -27,10 +24,7 @@ const Link = styled.a`
     box-shadow: none;
     color: #8f7afb;
   }
-
-
-
-
+`
 const Bio = () => {
   const data = useStaticQuery(graphql`
     query BioQuery {
@@ -51,7 +45,6 @@ const Bio = () => {
       }
     }
   `)
-
   const { author, social } = data.site.siteMetadata
   return (
     <div
@@ -61,7 +54,6 @@ const Bio = () => {
         marginBottom: rhythm(2.5),
       }}
     >
-
       <p className="hidden" id="pp2">
         Hey, I'm Matthew. I'm a second-year studying Finance and Economics at{" "}
         <Link
@@ -80,13 +72,12 @@ const Bio = () => {
             marginBottom: 0,
             minWidth: "280px",
             height: "220px",
-
-
           }}
 
-
         />
-  </div>
+    </div>
+
+
   )
 }
 

@@ -28,7 +28,7 @@ const Link = styled.a`
     color: #8f7afb;
   }
 
-`
+
 
 
 const Bio = () => {

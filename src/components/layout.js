@@ -15,7 +15,7 @@ class Layout extends React.Component {
           style={{
             ...scale(1.5),
             marginBottom: rhythm(1.5),
-            marginTop: 1em,
+            marginTop: rhythm(1),
           }}
         >
           <Link
@@ -56,7 +56,7 @@ class Layout extends React.Component {
         style={{
           marginLeft: `auto`,
           marginRight: `auto`,
-          maxWidth: rhythm(28),
+          maxWidth: rhythm(24),
           padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
         }}
       >

@@ -54,7 +54,7 @@ What excited me about the opportunity was that venture capital is one of the eas
 
 All during finals week I completed a 3-part interview, got the offer, disenrolled from class, and packed up my dorm room.
 
-**How to stand out while applying to startups**
+- **How to stand out while applying to startups**
   - Build a personal website (like this)
   - Write interesting stuff (non-technical)
   - Build a portfolio (technical)
@@ -68,8 +68,8 @@ Although, my intentions may be different than yours — if you're just looking f
 
 You need to first assess what you want to accomplish then work backward.
 
-**Books that influenced my gap year**
- - [Range](https://www.goodreads.com/book/show/41795733-range?from_search=true&from_srp=true&qid=ZbiSWDDO1t&rank=1) (diversification of skills is 🔑)
+- **Books that influenced my gap year**
+  - [Range](https://www.goodreads.com/book/show/41795733-range?from_search=true&from_srp=true&qid=ZbiSWDDO1t&rank=1) (diversification of skills is 🔑)
   - [Ego is the Enemy](https://www.goodreads.com/book/show/27036528-ego-is-the-enemy) (
   - Zero to One
 
@@ -92,7 +92,7 @@ I’ve gotten the opportunity to meet so many incredible people based on mutual 
 
 If you don't know where to start then join a gap year community, find online forums for your interests, or chat with alumni at your university. 
 
-**Student communities**
+- **Student communities**
   - [Remote students](https://remotestudents.co/) (gap year community)
   - [Lunchclub](https://lunchclub.ai/) (have a virtual 1:1 networking lunch)
   - [Happy Valley Capital](http://www.hvcpsu.com/) (Penn State students and alumni only)
@@ -109,7 +109,9 @@ Remote education is the perfect opportunity to pick up new skills as the world r
 
 Taking off from school was the best decision of my life and allowed me to readjust my aspirations to ultimately pursue what makes me happy. I can’t wait to come back to college with an incredibly different perspective that’ll help me make the most of my last year and a half.
 
-**Read others' gap year stories:**
+- **Read others' gap year stories:**
  - [Nathan Leung](https://www.natecation.com/tech-startup-gap-year-playbook/) (UMich '22 dropout)
  - [Kelvin Yu](https://www.kelv.me/gap-year) (Princeton '22 gap year)
  - [Helena Merk](https://medium.com/age-of-awareness/i-dropped-out-of-college-should-you-af9ab61231f3) (Duke '21 dropout)
+ 
+ **Thanks** to Chloe Connor, Connie Fang, Iris Fu, Kelvin Yu, Kirti Shenoy, Leanne Shen, Nathan Leung, and Raymond Friend for reading drafts of this.

@@ -59,8 +59,6 @@ All during finals week I completed a 3-part interview, got the offer, disenrolle
   - Write interesting stuff (non-technical)
   - Build a portfolio (technical)
 
-<img alt="Golden Gate Bridge" src="./IMG_0117.jpg" style="border-radius: 5%; width: 75%; height: auto;">
-
 ## Taking a leave of absence
 There's so much inconsistency in college. Exams, projects, and social events that take up every hour from your day. It becomes nearly impossible to focus on side-projects.
 
@@ -74,6 +72,8 @@ You need to first assess what you want to accomplish then work backward.
   - [Range](https://www.goodreads.com/book/show/41795733-range?from_search=true&from_srp=true&qid=ZbiSWDDO1t&rank=1) (diversification of skills is 🔑)
   - [Ego is the Enemy](https://www.goodreads.com/book/show/27036528-ego-is-the-enemy) (Don't let your ego change your perception of success)
   - Zero to One (Differentiate yourself)
+  
+<img alt="Golden Gate Bridge" src="./IMG_0117.jpg" style="border-radius: 5%; width: 75%; height: auto;">
 
 ## Become an expert in something unique
 Whether you decide to take off the year or only dedicate a few hours each week, you'll get to build moats — uniquely valuable skills.

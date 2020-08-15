@@ -99,7 +99,7 @@ If you don't know where to start then join a gap year community, find online for
   - [Lunchclub](https://lunchclub.ai/) (have a virtual 1:1 networking lunch)
   - [Happy Valley Capital](http://www.hvcpsu.com/) (Penn State students and alumni only)
  
-<img alt="Lake Tahoe" src="./tahoe.jpg" style="border-radius: 5%; width: 75%; height: auto;">
+<img alt="Lake Tahoe" src="./tahoe.JPG" style="border-radius: 5%; width: 75%; height: auto;">
 
 ## Learn what you love (and hate)
 You don’t know what you don’t know. 

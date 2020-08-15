@@ -38,10 +38,10 @@ All while taking a full course load, I joined a blockchain company based in Swit
 
 Whether you decide to disenroll from school and fly across the country, or take an extra 10 hours from your week, I’ll walk you through how to let this remote environment be an opportunity to explore your own curiosities.
 
-**Where to find remote opportunities**
-  -[angel.co](http://www.angel.co/) (where I started)
-  -[workatastartup.com](http://www.workatastartup.com/) (For Y Combinator startups)
-  - On-campus clubs (entrepreneurship focused)
+1. **Where to find remote opportunities**
+- [angel.co](http://www.angel.co/) (where I started)
+- [workatastartup.com](http://www.workatastartup.com/) (For Y Combinator startups)
+- On-campus clubs (entrepreneurship focused)
 
 ## Be open to different opportunities
 The first two startups I joined in college were unpaid part-time positions — and the return on investment was remarkable. 
@@ -69,7 +69,7 @@ Although, my intentions may be different than yours — if you're just looking f
 You need to first assess what you want to accomplish then work backward.
 
 **Books that influenced my gap year**
-  - [Range](https://www.goodreads.com/book/show/41795733-range?from_search=true&from_srp=true&qid=ZbiSWDDO1t&rank=1) (diversification of skills is 🔑)
+ - [Range](https://www.goodreads.com/book/show/41795733-range?from_search=true&from_srp=true&qid=ZbiSWDDO1t&rank=1) (diversification of skills is 🔑)
   - [Ego is the Enemy](https://www.goodreads.com/book/show/27036528-ego-is-the-enemy) (
   - Zero to One
 

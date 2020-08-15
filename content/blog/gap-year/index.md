@@ -38,10 +38,10 @@ All while taking a full course load, I joined a blockchain company based in Swit
 
 Whether you decide to disenroll from school and fly across the country, or take an extra 10 hours from your week, I’ll walk you through how to let this remote environment be an opportunity to explore your own curiosities.
 
-1. **Where to find remote opportunities**
-- [angel.co](http://www.angel.co/) (where I started)
-- [workatastartup.com](http://www.workatastartup.com/) (For Y Combinator startups)
-- On-campus clubs (entrepreneurship focused)
+- **Where to find remote opportunities**
+  - [angel.co](http://www.angel.co/) (where I started)
+  - [workatastartup.com](http://www.workatastartup.com/) (For Y Combinator startups)
+  - On-campus clubs (entrepreneurship focused)
 
 ## Be open to different opportunities
 The first two startups I joined in college were unpaid part-time positions — and the return on investment was remarkable. 

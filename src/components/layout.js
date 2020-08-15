@@ -39,6 +39,7 @@ class Layout extends React.Component {
             fontFamily: `Inter, sans-serif`,
             marginTop: 0,
             fontSize: `18px`,
+            background: `none`,
           }}
         >
           <Link

@@ -82,7 +82,7 @@ style={{
               boxShadow: `none`,
               textDecoration: `none`,
              
-      }} class="highlight1" href="https://www.twitter.com/mattmaiale" target="_blank">Twitter</Link>
+      }} class="highlight1" href="https://www.twitter.com/mattmaiale" target="_blank"> Twitter</Link>
         </footer>
       </div>
     )

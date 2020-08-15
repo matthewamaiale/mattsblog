@@ -63,7 +63,13 @@ class Layout extends React.Component {
         <header>{header}</header>
         <main>{children}</main>
         <footer>
-         <Link href="mailto:m@maiale.me" target="_blank">Email</Link> ∙ <Link class="highlight1" href="https://www.linkedin.com/in/mattmaiale/" target="_blank">LinkedIn</Link> ∙ <Link href="https://medium.com/@maiale" target="_blank" class="highlight1">Medium</Link> ∙ 
+         <Link
+style={{
+              boxShadow: `none`,
+              textDecoration: `none`,
+              color: `inherit`, 
+      }}
+      href="mailto:m@maiale.me" target="_blank">Email</Link> ∙ <Link class="highlight1" href="https://www.linkedin.com/in/mattmaiale/" target="_blank">LinkedIn</Link> ∙ <Link href="https://medium.com/@maiale" target="_blank" class="highlight1">Medium</Link> ∙ 
 <Link class="highlight1" href="https://www.twitter.com/mattmaiale" target="_blank">Twitter</Link>
         </footer>
       </div>

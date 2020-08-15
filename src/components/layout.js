@@ -64,13 +64,13 @@ class Layout extends React.Component {
         <header>{header}</header>
         <main>{children}</main>
         <footer>
-         <Link style={{
+         <a style={{
               boxShadow: `none`,
               textDecoration: `none`,
              
       }}
 
-      href="mailto:m@maiale.me" target="_blank">Email</Link> ∙ <a style={{
+      href="mailto:m@maiale.me" target="_blank">Email</a> ∙ <a style={{
               boxShadow: `none`,
               textDecoration: `none`,
              

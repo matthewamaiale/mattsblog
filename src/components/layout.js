@@ -64,6 +64,10 @@ class Layout extends React.Component {
         <main>{children}</main>
         <footer>
          <Link
+style={{
+              boxShadow: `none`,
+              textDecoration: `none`,  
+      }}
 
       href="mailto:m@maiale.me" target="_blank">Email</Link> ∙ <Link style={{
               boxShadow: `none`,

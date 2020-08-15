@@ -62,6 +62,22 @@ class Layout extends React.Component {
       >
         <header>{header}</header>
         <main>{children}</main>
+const Link = styled.a`
+  background: linear-gradient(181deg,rgba(255,255,255,0) 60%, rgb(225,208,255,.6) 40%);
+  border-radius: 17%;
+  border-bottom: dotted 0px;
+  transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
+  text-decoration: none;
+  box-shadow: none;
+  &:hover {
+    background: linear-gradient(180deg,rgba(255,255,255,0) 60%, rgba(0,87,169, .13) 40%);
+    border-radius: 17%;
+    border-bottom: dotted 0px;
+    text-decoration: none;
+    box-shadow: none;
+    color: #8f7afb;
+  }
+`
         <footer>
          <Link class="highlight1" href="mailto:m@maiale.me" target="_blank">Email</Link> ∙ <Link class="highlight1" href="https://www.linkedin.com/in/mattmaiale/" target="_blank">LinkedIn</Link> ∙ <Link href="https://medium.com/@maiale" target="_blank" class="highlight1">Medium</Link> ∙ 
 <Link class="highlight1" href="https://www.twitter.com/mattmaiale" target="_blank">Twitter</Link>

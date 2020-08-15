@@ -59,6 +59,8 @@ All during finals week I completed a 3-part interview, got the offer, disenrolle
   - Write interesting stuff (non-technical)
   - Build a portfolio (technical)
 
+<img alt="Arriving in SF" src="./IMG_4332.jpg" style="border-radius: 5%; width: 75%; height: auto;">
+
 ## Taking a leave of absence
 There's so much inconsistency in college. Exams, projects, and social events that take up every hour from your day. It becomes nearly impossible to focus on side-projects.
 

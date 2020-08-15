@@ -69,7 +69,7 @@ style={{
 <p>I'm also avid distance <Link class="highlight1" target="_blank" href="https://www.strava.com/athletes/19065423">runner</Link> (45 miles per week), play modern piano, <Link class="highlight1" href="https://www.goodreads.com/maiale" target="_blank">read</Link> non-fiction and classics, and have been to over <Link href="https://docs.google.com/document/d/1GrIVKaveYCPvnJQSQQhxn0pXMeWN-j4DtpuXFBtGqoI/edit?usp=sharing" target="_blank" class="highlight1">30 concerts</Link>.</p>
   <b style={{
         fontSize: `25px`,
-	marginBottom: rhythm(-1.5),
+	marginBottom: rhythm(-1),
       }}>Essays✍️</b>
 </div>
   )

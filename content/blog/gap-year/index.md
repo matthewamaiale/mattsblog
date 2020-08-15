@@ -3,11 +3,12 @@ title: Gap Year
 date: "2020-08-05T22:40:32.169Z"
 description: Why I took off school and why you should consider it too.
 ---
-![Golden Gate Bridge](./IMG_0117.jpg#imagestyle)
+![Golden Gate Bridge](./IMG_0117.jpg#thumbnail)
 
-img[src$="#imagestyle"] {
-  border-radius: 5%;
-  max-width: 50%;
+img[src*="#thumbnail"] {
+   border-radius: 5%;
+   width: 75%;
+   height: auto;
 }
 
 Far far away, behind the word mountains, far from the countries Vokalia and

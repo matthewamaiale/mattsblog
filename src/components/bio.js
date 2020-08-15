@@ -63,12 +63,11 @@ const Bio = () => {
         style={{
          
           marginBottom: 0,
-          maxWidth: `20%`,
-	  height: `20%`,
+          maxWidth: `75`,
+	  height: `75`,
 	  float: `right`,
         }}
         imgStyle={{
-          borderRadius: `50%`,
         }}
       />
        I took a gap semester in spring 2020 to work at a venture capital fund in San Francisco. After working with tons of awesome investors and founders, I decided to double down and also take off the fall semester to join <Link className="highlight1" href="https://demandcurve.com" target="_blank">Demand Curve (YC S19)</Link>.

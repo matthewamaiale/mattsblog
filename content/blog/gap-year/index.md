@@ -9,12 +9,39 @@ This guide offers my experience taking a gap year and a framework for deciding w
 
 ## Why I left school.
 
-The Big Oxmox advised her not to do so, because there were thousands of bad
-Commas, wild Question Marks and devious Semikoli, but the Little Blind Text
-didn’t listen. She packed her seven versalia, put her initial into the belt and
-made herself on the way.
+We enter college with unbounded career aspirations. We set out to be neuroscientists, politicians, artists, and for me an entrepreneur. Then we become [conformists](http://www.paulgraham.com/conformism.html).
 
-  - This however showed weasel
+*We don’t listen to ourselves.*
+
+I was told that if I checked all the boxes I could do whatever I wanted. I got a high gpa, held leadership positions, and secured an internship.
+Yet as I kept checking the boxes I saw my optionality dwindle.
+
+I let my ego get the best of me and strived towards what others saw as successful — not what I wanted. 
+
+No matter how much pushed in the same direction I wouldn’t reach my original aspirations.
+
+Halfway through my sophomore year I ultimately decided I needed to start from scratch.
+
+I left school in spring 2020 — and it has been the best decision of my life. During the first 8 months of my gap year I worked at a seed venture capital fund in San Francisco, got exposure to Silicon Valley, and ultimately joined an incredible growth marketing startup.
+
+I’ll share my experience on how I left as a non-technical background, afforded to live in San Francisco, and ended up readjusted my entire life trajectory.
+
+## Start with a side-gig
+
+If there’s something you’re yearning to learn, don’t always settle for what’s in the classroom.
+
+I became extremely excited by technology and equally frustrated by the lack of opportunities offered by the university. In fact the majority of my exploration came by joining incredible student orgs such as [Happy Valley Capital](http://www.hvcpsu.com/).
+
+Before I left I started supplementing my education by working remotely for startups. I’d cold email founders that fascinated me and offer to help as a part-time intern (no strings attached). 
+
+To my surprise, most startups were extremely receptive and respected my drive to reshape my college career. 
+
+All while taking a full course load, I joined a blockchain company based in Switzerland, then later a FinTech YC startup in San Francisco.
+
+Whether you decide to disenroll from school and fly across the country, or take an extra 10 hours from your week, I’ll walk you through how to let this remote environment be an opportunity to explore your own curiosities.
+
+**Where to find remote opportunities**
+  - [angel.co](http://www.angel.co/) (where I started)
   - Well uncritical so misled
   - this is very interesting
   - Goodness much until that fluid owl

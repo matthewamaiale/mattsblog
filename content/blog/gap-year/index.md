@@ -38,7 +38,7 @@ All while taking a full course load, I joined a blockchain company based in Swit
 
 Whether you decide to disenroll from school and fly across the country, or take an extra 10 hours from your week, I’ll walk you through how to let this remote environment be an opportunity to explore your own curiosities.
 
-- **Where to find remote opportunities**
+- **Where to find remote opportunities:**
   - [angel.co](http://www.angel.co/) (where I started)
   - [workatastartup.com](http://www.workatastartup.com/) (For Y Combinator startups)
   - On-campus clubs (entrepreneurship focused)
@@ -68,10 +68,10 @@ Although, my intentions may be different than yours — if you're just looking f
 
 You need to first assess what you want to accomplish then work backward.
 
-- **Books that influenced my gap year**
+- **Books that influenced my gap year:**
   - [Range](https://www.goodreads.com/book/show/41795733-range?from_search=true&from_srp=true&qid=ZbiSWDDO1t&rank=1) (diversification of skills is 🔑)
-  - [Ego is the Enemy](https://www.goodreads.com/book/show/27036528-ego-is-the-enemy) (
-  - Zero to One
+  - [Ego is the Enemy](https://www.goodreads.com/book/show/27036528-ego-is-the-enemy) (Don't let your ego change your perception of success)
+  - Zero to One (Differentiate yourself)
 
 ## Become an expert in something unique
 Whether you decide to take off the year or only dedicate a few hours each week, you'll get to build moats — uniquely valuable skills.
@@ -92,7 +92,7 @@ I’ve gotten the opportunity to meet so many incredible people based on mutual 
 
 If you don't know where to start then join a gap year community, find online forums for your interests, or chat with alumni at your university. 
 
-- **Student communities**
+- **Student communities:**
   - [Remote students](https://remotestudents.co/) (gap year community)
   - [Lunchclub](https://lunchclub.ai/) (have a virtual 1:1 networking lunch)
   - [Happy Valley Capital](http://www.hvcpsu.com/) (Penn State students and alumni only)

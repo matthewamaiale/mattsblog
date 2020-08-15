@@ -55,7 +55,10 @@ const Bio = () => {
       }}
     >
 
-<b>What I'm up to</b>
+<b
+style={{
+        fontSize: `25px`,
+      }}>What I'm up to</b>
       <p className="hidden" id="pp2">
 	      <Image
         fixed={data.avatar.childImageSharp.fixed}

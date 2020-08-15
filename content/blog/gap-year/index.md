@@ -1,32 +1,23 @@
 ---
 title: Gap Year
 date: "2020-08-05T22:40:32.169Z"
-description: Why I took off school and why you should consider it too.
+description: This guide offers my experience taking a gap year and a framework for deciding what time off means to you. I’ll explain through the perspective of breaking into Silicon Valley.
 ---
+This guide offers my experience taking a gap year and a framework for deciding what time off means to you. I’ll explain through the perspective of breaking into Silicon Valley.
+
 ![Golden Gate Bridge](./IMG_0117.jpg#thumbnail)
 
-img[src*="#thumbnail"] {
-   border-radius: 5%;
-   width: 75%;
-   height: auto;
-}
-
-Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-right at the coast of the Semantics, a large language ocean. A small river named
-Duden flows by their place and supplies it with the necessary regelialia.
-
-## On deer horse aboard tritely yikes and much
+## Why I left school.
 
 The Big Oxmox advised her not to do so, because there were thousands of bad
 Commas, wild Question Marks and devious Semikoli, but the Little Blind Text
 didn’t listen. She packed her seven versalia, put her initial into the belt and
 made herself on the way.
 
-- This however showed weasel
-- Well uncritical so misled
+  - This however showed weasel
+  - Well uncritical so misled
   - this is very interesting
-- Goodness much until that fluid owl
+  - Goodness much until that fluid owl
 
 When she reached the first hills of the **Italic Mountains**, she had a last
 view back on the skyline of her hometown _Bookmarksgrove_, the headline of

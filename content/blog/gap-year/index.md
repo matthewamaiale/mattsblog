@@ -1,9 +1,9 @@
 ---
 title: Gap Year
-date: "2020-08-05T22:40:32.169Z"
+date: "2020-08-15T22:40:32.169Z"
 description: This guide offers my experience taking a gap year and a framework for deciding what time off means to you. I’ll explain through the perspective of breaking into Silicon Valley.
 ---
-This guide offers my experience taking a gap year and a framework for deciding what time off means to you. I’ll explain through the perspective of breaking into Silicon Valley.
+*This guide offers my experience taking a gap year and a framework for deciding what time off means to you. I’ll explain through the perspective of breaking into Silicon Valley.*
 
 ![Golden Gate Bridge](./IMG_0117.jpg#thumbnail)
 
@@ -42,17 +42,49 @@ Whether you decide to disenroll from school and fly across the country, or take 
 
 **Where to find remote opportunities**
   - [angel.co](http://www.angel.co/) (where I started)
-  - Well uncritical so misled
-  - this is very interesting
-  - Goodness much until that fluid owl
+  - [workatastartup.com](http://www.workatastartup.com/) (For Y Combinator startups)
+  - On-campus clubs (entrepreneurship focused)
 
-When she reached the first hills of the **Italic Mountains**, she had a last
-view back on the skyline of her hometown _Bookmarksgrove_, the headline of
-[Alphabet Village](http://google.com) and the subline of her own road, the Line
-Lane. Pityful a rhetoric question ran over her cheek, then she continued her
-way. On her way she met a copy.
+## Be open to different opportunities
 
-### Overlaid the jeepers uselessly much excluding
+The first two startups I joined in college were unpaid part-time positions — and the return on investment was remarkable. 
+
+Part-time internships are the most uniquely valuable way to peek inside a company without committing 2+ years of your life.
+
+You also don't know where opportunities will lead you. While working for the FinTech startup in San Francisco, I got connected to an incredible opportunity in venture capital.
+
+What excited me about the opportunity was that venture capital is one of the easiest ways to segway from a finance background into tech. 
+
+All during finals week I completed a 3-part interview, got the offer, disenrolled from class, and packed up my dorm room.
+
+
+### Taking a leave of absence
+
+There's so much inconsistency in college. Exams, projects, and social events that take up every hour from your day. It becomes nearly impossible to focus on side-projects.
+
+In January of 2020, I flew out to San Francisco for the first time on my own. Taking a complete pause from school helped me refocus on what I wanted to accomplish -- learning and networking in technology.
+
+Although, my intentions may be different than yours — if you're just looking for experience then there's nothing stopping you from taking a lighter course load, going part-time, or supplementing your free-time. 
+
+You need to first assess what you want to accomplish then work backward.
+
+**Books that influenced my gap year**
+  - Range
+  - Ego is the Enemy
+  - Zero to One
+
+## Become an expert in something unique
+
+Whether you decide to take off the year or only dedicate a few hours each week, you'll get to build moats — uniquely valuable skills.
+
+Between both my part-time internships and gap year I learned how to raise a fund, due diligence + invest in startups, and ultimately what it takes to start a company. 
+
+While none of these skills necessarily built off each other and my journey has been extremely non-linear, the diversity of perspectives helps me think more critically.
+
+For instance, working in Biz Dev at 2 startups gave me a unique perspective while due diligencing startups in venture capital.
+
+> “The challenge we all face is how to maintain the benefits of breadth, diverse experience, interdisciplinary thinking, and delayed concentration in a world that
+increasingly incentivizes, even demands, hyperspecialization” ― David Epstein
 
 But nothing the copy said could convince her and so it didn’t take long until a
 few insidious Copy Writers ambushed her, made her drunk with

@@ -5,7 +5,7 @@ description: This guide offers my experience taking a gap year and a framework f
 ---
 *This guide offers my experience taking a gap year and a framework for deciding what time off means to you. I’ll explain through the perspective of breaking into Silicon Valley.*
 
-<img alt="Penn State Fall" src="./oldmain.jpg" style="border-radius: 5%; width: 75%; height: auto;">
+<img alt="Golden Gate Bridge" src="./IMG_0117.jpg" style="border-radius: 5%; width: 75%; height: auto;">
 
 ## Why I left school.
 We enter college with unbounded career aspirations. We set out to be neuroscientists, politicians, artists, and for me an entrepreneur. Then we become [conformists](http://www.paulgraham.com/conformism.html).

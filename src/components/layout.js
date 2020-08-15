@@ -16,6 +16,7 @@ class Layout extends React.Component {
             ...scale(1.5),
             marginBottom: rhythm(1.5),
             marginTop: rhythm(1),
+            background: `none`,
           }}
         >
           <Link
@@ -23,6 +24,7 @@ class Layout extends React.Component {
               boxShadow: `none`,
               textDecoration: `none`,
               color: `inherit`,
+              background: `none`,
             }}
             to={`/`}
           >

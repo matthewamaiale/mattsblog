@@ -51,7 +51,7 @@ const Bio = () => {
       style={{
         display: `flex`,
         flexWrap: `wrap`,
-        marginBottom: rhythm(0),
+        marginBottom: rhythm(0.5),
       }}
     >
 

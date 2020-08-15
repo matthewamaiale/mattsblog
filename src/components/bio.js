@@ -60,8 +60,8 @@ const Bio = () => {
         style={{
          
           marginBottom: 0,
-          maxWidth: 50,
-          borderRadius: `100%`,
+          maxWidth: `20%`,
+	  height: `auto`,
 	  float: `right`,
         }}
         imgStyle={{

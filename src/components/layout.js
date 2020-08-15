@@ -36,6 +36,7 @@ class Layout extends React.Component {
           style={{
             fontFamily: `Inter, sans-serif`,
             marginTop: 0,
+            fontSize: `18px`,
           }}
         >
           <Link
@@ -57,7 +58,7 @@ class Layout extends React.Component {
           marginLeft: `auto`,
           marginRight: `auto`,
           maxWidth: rhythm(25.5),
-          padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
+          padding: `${rhythm(1)} ${rhythm(3 / 4)}`,
         }}
       >
         <header>{header}</header>

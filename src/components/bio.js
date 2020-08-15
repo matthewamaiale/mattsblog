@@ -70,7 +70,7 @@ const Bio = () => {
         imgStyle={{
         }}
       />
-       I took a gap semester in spring 2020 to work at a venture capital fund in San Francisco. After working with tons of awesome investors and founders, I decided to double down and also take off the fall semester to join <Link className="highlight1" href="https://demandcurve.com" target="_blank">Demand Curve (YC S19)</Link>.
+       I started my gap year in spring 2020 to work at a venture capital fund in San Francisco. After working with tons of awesome investors and founders, I decided to double down and also take off the fall semester to join <Link className="highlight1" href="https://demandcurve.com" target="_blank">Demand Curve (YC S19)</Link>.
 	      </p>
   <b>Education + Learning</b>
 <p>At Penn State I'm studying Finance + Economics (3.95 gpa, '22), am the President of our <Link class="highlight1" target="_blank" href="https://hvcpsu.com/">student-run VC fund</Link>, and run club cross country. During my first two summers of college I interned in <Link class="highlight1" target="_blank" href="http://chathamfinancial.com/">derivatives consulting</Link> and at a <Link href="http://joinpuzzl.com" target="_blank" class="highlight1">FinTech</Link> startup.</p>

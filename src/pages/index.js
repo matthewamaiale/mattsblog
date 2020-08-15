@@ -24,7 +24,7 @@ class BlogIndex extends React.Component {
                 <h3
                   style={{
                     marginBottom: rhythm(1 / 8),
-                    marginTop: rhythm(0),
+                    marginTop: rhythm(0.5),
                     fontSize: `18px`,
                   }}
                 >

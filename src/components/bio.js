@@ -51,7 +51,7 @@ const Bio = () => {
       style={{
         display: `flex`,
         flexWrap: `wrap`,
-        marginBottom: rhythm(2.5),
+        marginBottom: rhythm(0),
       }}
     >
 
@@ -60,19 +60,7 @@ style={{
         fontSize: `21px`,
       }}>What I'm up to</b>
       <p className="hidden" id="pp2">
-	      <Image
-        fixed={data.avatar.childImageSharp.fixed}
-        alt={author.name}
-        style={{
-         
-          marginBottom: 0,
-          maxWidth: `75`,
-	  height: `75`,
-	  float: `right`,
-        }}
-        imgStyle={{
-        }}
-      />
+	     
        I started my gap year in spring 2020 interning at a venture capital fund in San Francisco. After discovering my passion for growth marketing and startups, I recently joined the <Link className="highlight1" href="https://demandcurve.com" target="_blank">Demand Curve (YC S19)</Link> team.
 	      </p>
   <b style={{
@@ -83,7 +71,9 @@ style={{
         fontSize: `21px`,
       }}>Interests</b>
 <p>I'm an avid distance <Link class="highlight1" target="_blank" href="https://www.strava.com/athletes/19065423">runner</Link> (9:37 two mile) averaging 45 miles per week. I'm also learning Spanish, play modern piano, <Link class="highlight1" href="https://www.goodreads.com/maiale" target="_blank">read</Link> non-fiction and classics, and have been to over <Link href="https://docs.google.com/document/d/1GrIVKaveYCPvnJQSQQhxn0pXMeWN-j4DtpuXFBtGqoI/edit?usp=sharing" target="_blank" class="highlight1">30 concerts</Link>.</p>
-  
+  <b style={{
+        fontSize: `21px`,
+      }}>Essays</b>
 </div>
   )
 }

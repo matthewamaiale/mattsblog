@@ -5,6 +5,22 @@ import Bio from "../components/bio"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import { rhythm, scale } from "../utils/typography"
+const Link = styled.a`
+  background: linear-gradient(181deg,rgba(255,255,255,0) 60%, rgb(225,208,255,.6) 40%);
+  border-radius: 17%;
+  border-bottom: dotted 0px;
+  transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
+  text-decoration: none;
+  box-shadow: none;
+  &:hover {
+    background: linear-gradient(180deg,rgba(255,255,255,0) 60%, rgba(0,87,169, .13) 40%);
+    border-radius: 17%;
+    border-bottom: dotted 0px;
+    text-decoration: none;
+    box-shadow: none;
+    color: #8f7afb;
+  }
+`
 
 class BlogPostTemplate extends React.Component {
   render() {

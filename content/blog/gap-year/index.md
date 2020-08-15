@@ -5,7 +5,7 @@ description: This guide offers my experience taking a gap year and a framework f
 ---
 *This guide offers my experience taking a gap year and a framework for deciding what time off means to you. I’ll explain through the perspective of breaking into Silicon Valley.*
 
-<img alt="Golden Gate Bridge" src="./IMG_0117.jpg" style="border-radius: 5%; width: 75%; height: auto;">
+<img alt="Fall Penn State" src="./oldmain.jpg" style="border-radius: 5%; width: 75%; height: auto;">
 
 ## Why I left school.
 We enter college with unbounded career aspirations. We set out to be neuroscientists, politicians, artists, and for me an entrepreneur. Then we become [conformists](http://www.paulgraham.com/conformism.html).
@@ -59,7 +59,7 @@ All during finals week I completed a 3-part interview, got the offer, disenrolle
   - Write interesting stuff (non-technical)
   - Build a portfolio (technical)
 
-<img alt="AWS loft" src="./IMG_1038.jpg" style="border-radius: 5%; width: 75%; height: auto;">
+<img alt="Golden Gate Bridge" src="./IMG_0117.jpg" style="border-radius: 5%; width: 75%; height: auto;">
 
 ## Taking a leave of absence
 There's so much inconsistency in college. Exams, projects, and social events that take up every hour from your day. It becomes nearly impossible to focus on side-projects.

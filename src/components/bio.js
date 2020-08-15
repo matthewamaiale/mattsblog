@@ -54,22 +54,23 @@ const Bio = () => {
         marginBottom: rhythm(2.5),
       }}
     >
-<Image
+
+<b>What I'm up to</b>
+      <p className="hidden" id="pp2">
+	      <Image
         fixed={data.avatar.childImageSharp.fixed}
         alt={author.name}
         style={{
          
           marginBottom: 0,
           maxWidth: `20%`,
-	  height: `auto`,
+	  height: `20%`,
 	  float: `right`,
         }}
         imgStyle={{
           borderRadius: `50%`,
         }}
       />
-<b>What I'm up to</b>
-      <p className="hidden" id="pp2">
        I took a gap semester in spring 2020 to work at a venture capital fund in San Francisco. After working with tons of awesome investors and founders, I decided to double down and also take off the fall semester to join <Link className="highlight1" href="https://demandcurve.com" target="_blank">Demand Curve (YC S19)</Link>.
 	      </p>
   <b>Education + Learning</b>

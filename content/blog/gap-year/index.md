@@ -3,7 +3,7 @@ title: Gap Year
 date: "2020-08-05T22:40:32.169Z"
 description: Why I took off school and why you should consider it too.
 ---
-
+![Golden Gate Bridge](./IMG_0117.jpg)
 Far far away, behind the word mountains, far from the countries Vokalia and
 Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
 right at the coast of the Semantics, a large language ocean. A small river named

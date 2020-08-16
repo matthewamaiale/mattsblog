@@ -42,7 +42,7 @@ All while taking a full course load, I joined a [blockchain company](http://www.
 - **Where to find remote opportunities:**
   - [angel.co](http://www.angel.co/) (where I started)
   - [workatastartup.com](http://www.workatastartup.com/) (where I went next)
-  - On-campus clubs (entrepreneurship focused)
+  - [On-campus clubs](http://www.hvcpsu.com/) (entrepreneurship focused)
 
 ## Be open to different opportunities
 The first two startups I joined in college were unpaid part-time positions — and the return on investment was remarkable. 
@@ -99,7 +99,7 @@ If you don't know where to start then join a gap year community, find online for
   - [Remote students](https://remotestudents.co/) (gap year community)
   - [Hiatus Work](https://www.hiatus.work/) (gap year community)
   - [Lunchclub](https://lunchclub.ai/) (have a virtual 1:1 networking lunch)
-  - [Happy Valley Capital](http://www.hvcpsu.com/) (Penn State students and alumni only)
+  - [Happy Valley Capital](http://www.hvcpsu.com/) (Penn State students and alumni)
   
 <img alt="AWS Loft" src="./IMG_1238.jpg" style="border-radius: 5%; width: 75%; height: auto;">
 
@@ -121,5 +121,5 @@ Want to hear more? DM me on Twitter: [@mattmaiale](https://twitter.com/mattmaial
   - [Nathan Leung](https://www.natecation.com/tech-startup-gap-year-playbook/) (UMich '22 dropout)
   - [Kelvin Yu](https://www.kelv.me/gap-year) (Princeton '22 gap year)
   - [Helena Merk](https://medium.com/age-of-awareness/i-dropped-out-of-college-should-you-af9ab61231f3) (Duke '21 dropout)
- 
- **Thanks** to Chloe Connor, Connie Fang, Iris Fu, Kelvin Yu, Kirti Shenoy, Leanne Shen, Nathan Leung, and Raymond Friend for reading drafts of this.
+
+**Thanks** to Chloe Connor, Connie Fang, Iris Fu, Kelvin Yu, Kirti Shenoy, Leanne Shen, Nathan Leung, and Raymond Friend for reading drafts of this.

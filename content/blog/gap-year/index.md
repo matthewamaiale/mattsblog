@@ -12,18 +12,19 @@ We enter college with unbounded career aspirations. We set out to be neuroscient
 
 *We don’t listen to ourselves.*
 
-I was told that if I checked all the boxes I could do whatever I wanted. I got a high gpa, held leadership positions, and secured an internship.
-Yet as I kept checking the boxes I saw my optionality dwindle.
+I was told that if I played the college game right I could do whatever I wanted. I got a high gpa, held leadership positions, and secured an internship.
 
-I let my ego get the best of me and strived towards what others saw as successful — not what I wanted. 
+Yet as I kept checking the boxes I seemed to be distancing myself further and further away from my original aspirations. 
 
-No matter how much pushed in the same direction I wouldn’t reach my original aspirations.
+I let my ego get the best of me. I was striving towards what others saw as successful.
 
-Halfway through my sophomore year I ultimately decided I needed to start from scratch.
+Halfway through my sophomore year I ultimately realized that pursuing finance wasn’t getting me any closer to my tech dreams.
 
 I left school in spring 2020 — and it has been the best decision of my life. During the first 8 months of my gap year I worked at a seed venture capital fund in San Francisco, got exposure to Silicon Valley, and ultimately joined an incredible growth marketing startup.
 
 I’ll share my experience on how I left as a non-technical background, afforded to live in San Francisco, and ended up readjusted my entire life trajectory.
+
+Whether you decide to disenroll from school and fly across the country, or take an extra 10 hours from your week, I’ll walk you through how to let this remote environment be an opportunity to explore your *own* curiosities.
 
 <img alt="Fall Penn State" src="./oldmain.jpg" style="border-radius: 5%; width: 75%; height: auto;">
 
@@ -32,7 +33,7 @@ If there’s something you’re yearning to learn, don’t always settle for wha
 
 I became extremely excited by technology and equally frustrated by the lack of opportunities offered by the university. In fact the majority of my exploration came by joining incredible student orgs such as [Happy Valley Capital](http://www.hvcpsu.com/).
 
-Before I left I started supplementing my education by working remotely for startups. I’d cold email founders that fascinated me and offer to help as a part-time intern (no strings attached). 
+I started supplementing my education by working remotely for startups. I’d cold email founders that fascinated me and offer to help as a part-time intern (no strings attached). 
 
 To my surprise, most startups were extremely receptive and respected my drive to reshape my college career. 
 
@@ -55,9 +56,9 @@ What excited me about the opportunity was that venture capital is one of the eas
 All during finals week I completed a 3-part interview, got the offer, disenrolled from class, and packed up my dorm room.
 
 - **How to stand out while applying to startups**
-  - Build a personal website (like this)
-  - Write interesting stuff (non-technical)
-  - Build a portfolio (technical)
+  - Build a personal website ([like this site](http://www.maiale.me/))
+  - Write interesting essays (shows your critical thinking skills)
+  - Build a portfolio (coding, design, marketing)
 
 <img alt="Golden Gate Bridge" src="./IMG_0117.jpg" style="border-radius: 5%; width: 75%; height: auto;">
 
@@ -73,7 +74,7 @@ You need to first assess what you want to accomplish then work backward.
 - **Books that influenced my gap year:**
   - [Range](https://www.goodreads.com/book/show/41795733-range?from_search=true&from_srp=true&qid=ZbiSWDDO1t&rank=1) (diversification of skills is 🔑)
   - [Ego is the Enemy](https://www.goodreads.com/book/show/27036528-ego-is-the-enemy) (Don't let your ego change your perception of success)
-  - Zero to One (Differentiate yourself)
+  - [Zero to One](https://www.goodreads.com/book/show/18050143-zero-to-one?from_search=true&from_srp=true&qid=b6f0eXcwsU&rank=1) (Differentiate yourself)
   
 ## Become an expert in something unique
 Whether you decide to take off the year or only dedicate a few hours each week, you'll get to build moats — uniquely valuable skills.
@@ -97,6 +98,7 @@ If you don't know where to start then join a gap year community, find online for
 - **Student communities:**
   - [Remote students](https://remotestudents.co/) (gap year community)
   - [Lunchclub](https://lunchclub.ai/) (have a virtual 1:1 networking lunch)
+  - [Hiatus Work](https://www.hiatus.work/) (gap year community)
   - [Happy Valley Capital](http://www.hvcpsu.com/) (Penn State students and alumni only)
   
 <img alt="AWS Loft" src="./IMG_1238.jpg" style="border-radius: 5%; width: 75%; height: auto;">

@@ -51,7 +51,7 @@ Part-time internships are the most uniquely valuable way to peek inside a compan
 
 You also don't know where opportunities will lead you. While working for the FinTech startup in San Francisco, I got connected to an opportunity in venture capital.
 
-What excited me about venture capital is that it is one of the easiest ways to segway from a finance background into tech. 
+What excited me about venture capital is that it is one of the easiest ways to segue from a finance background into tech. 
 
 All during finals week I completed a 3-part interview, got the offer, disenrolled from class, and packed up my dorm room.
 

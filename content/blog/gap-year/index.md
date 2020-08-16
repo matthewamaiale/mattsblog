@@ -39,7 +39,7 @@ To my surprise, most startups were extremely receptive and respected my drive to
 
 All while taking a full course load, I joined a [blockchain company](http://www.swissrealty.io) based in Switzerland, then later a [FinTech YC startup](http://joinpuzzl.com) in San Francisco.
 
-- **Where to find remote opportunities:**
+**Where to find remote opportunities:**
   - [angel.co](http://www.angel.co/) (where I started)
   - [workatastartup.com](http://www.workatastartup.com/) (where I went next)
   - [On-campus clubs](http://www.hvcpsu.com/) (entrepreneurship focused)
@@ -55,7 +55,7 @@ What excited me about venture capital is that it is one of the easiest ways to s
 
 All during finals week I completed a 3-part interview, got the offer, disenrolled from class, and packed up my dorm room.
 
-- **How to stand out while applying to startups**
+**How to stand out while applying to startups**
   - Build a personal website ([like this site](http://www.maiale.me/))
   - Write [interesting essays](http://www.paulgraham.com/useful.html) (shows your critical thinking skills)
   - Build a portfolio ([coding](http://www.freecodecamp.com/), design, [marketing](https://www.julian.com/guide/growth/intro))
@@ -71,7 +71,7 @@ My intentions may be different than yours though — if you're just looking for 
 
 You need to first assess what you want to accomplish then work backward.
 
-- **Books that influenced my gap year:**
+**Books that influenced my gap year:**
   - [Range](https://www.goodreads.com/book/show/41795733-range?from_search=true&from_srp=true&qid=ZbiSWDDO1t&rank=1) (diversification of skills is 🔑)
   - [Ego is the Enemy](https://www.goodreads.com/book/show/27036528-ego-is-the-enemy) (Don't let your ego change your perception of success)
   - [Zero to One](https://www.goodreads.com/book/show/18050143-zero-to-one?from_search=true&from_srp=true&qid=b6f0eXcwsU&rank=1) (Differentiate yourself)
@@ -95,7 +95,7 @@ I’ve gotten the opportunity to meet so many incredible people based on mutual 
 
 If you don't know where to start then join a gap year community, find online forums for your interests, or chat with alumni at your university. 
 
-- **Online communities:**
+**Online communities:**
   - [Remote students](https://remotestudents.co/) (gap year community)
   - [Hiatus Work](https://www.hiatus.work/) (gap year community)
   - [Lunchclub](https://lunchclub.ai/) (have a virtual 1:1 networking lunch)
@@ -117,7 +117,7 @@ Taking off from school was the best decision of my life and allowed me to ultima
 
 Want to hear more? DM me on Twitter: [@mattmaiale](https://twitter.com/mattmaiale?lang=en)
 
-- **Read others' gap year stories:**
+**Read others' gap year stories:**
   - [Nathan Leung](https://www.natecation.com/tech-startup-gap-year-playbook/) (UMich '22 dropout)
   - [Kelvin Yu](https://www.kelv.me/gap-year) (Princeton '22 gap year)
   - [Helena Merk](https://medium.com/age-of-awareness/i-dropped-out-of-college-should-you-af9ab61231f3) (Duke '21 dropout)

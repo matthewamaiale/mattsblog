@@ -1,9 +1,9 @@
 ---
 title: Gap Year
 date: "2020-08-15T22:40:32.169Z"
-description: This guide offers my experience taking a gap year and a framework for deciding what time off means to you. I’ll explain through the perspective of breaking into Silicon Valley.
+description: A non-comprehensive guide on taking off from school and making the most of remote learning. I'll share my story of taking a gap year to work in Silicon Valley.
 ---
-*This guide offers my experience taking a gap year and a framework for deciding what time off means to you. I’ll explain through the perspective of breaking into Silicon Valley.*
+*A non-comprehensive guide on taking off from school and making the most of remote learning. I'll share my story of taking a gap year to work in Silicon Valley.*
 
 <img alt="Lake Tahoe" src="./tahoe.JPG" style="border-radius: 5%; width: 75%; height: auto;">
 
@@ -111,7 +111,7 @@ Taking small risks one step at a time lets you consistently iterate and optimize
 ## Next steps
 Remote education is the perfect opportunity to pick up new skills as the world readjusts. No one is going to parties, no recruiters are on campus, and the rest of the world certainly isn't moving on without you.
 
-Taking off from school was the best decision of my life and allowed me to readjust my aspirations to ultimately pursue what makes me happy. I can’t wait to come back to college with an incredibly different perspective that’ll help me make the most of my last year and a half.
+Taking off from school was the best decision of my life and allowed me to readjust my aspirations to ultimately pursue what makes me happy. I can’t wait to come back to college with an incredibly different perspective that’ll help me make the most of my last year and a half (especially club cross country woot-woot!).
 
 <img alt="Thanks to whoever took this photo I got it off Calvin's insta" src="./psuclubxc.jpg" style="border-radius: 5%; width: 75%; height: auto;">
 

@@ -1,9 +1,9 @@
 ---
 title: 2020 Gap Year
 date: "2020-08-15T22:40:32.169Z"
-description: Guide to taking a 2020 gap year and working in venture capital and startups. I'll explain how I left school and broke into Silicon Valley as a non-technical student.
+description: How I left school as a non-technical background and worked in venture capital and startups. 
 ---
-*Guide to taking a 2020 gap year and working in venture capital and startups. I'll explain how I left school and broke into Silicon Valley as a non-technical student.*
+*How I left school as a non-technical student and worked in venture capital and startups. *
 
 <img alt="Lake Tahoe" src="./tahoe.JPG" style="border-radius: 5%; width: 75%; height: auto;">
 

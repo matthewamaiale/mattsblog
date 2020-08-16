@@ -20,7 +20,7 @@ I let my ego get the best of me. I was striving towards what others saw as succe
 
 Halfway through my sophomore year I ultimately realized that pursuing finance wasn’t getting me any closer to my tech dreams.
 
-I left school in spring 2020 — and it has been the best decision of my life. During the first 8 months of my gap year I worked at a seed venture capital fund in San Francisco, got exposure to Silicon Valley, and ultimately joined an incredible [growth marketing startup](http://www.demandcurve.com/).
+I left school in spring 2020 — and it has been the best decision of my life. During the first 8 months of my gap year I went to San Francisco to work at a seed venture capital fund, invest in 30 startups, and ultimately joined an incredible [growth marketing YC S19 startup](http://www.demandcurve.com/).
 
 I’ll share my experience on how I left as a non-technical background, afforded to live in [San Francisco](https://www.tribecoliving.com/), and ended up readjusted my entire life trajectory.
 

@@ -24,14 +24,14 @@ I left school in spring 2020 — and it has been the best decision of my life. D
 
 I’ll share my experience on how I left as a non-technical background, afforded to live in [San Francisco](https://www.tribecoliving.com/), and ended up readjusted my entire life trajectory.
 
-Whether you decide to disenroll from school and fly across the country, or take an extra 10 hours from your week, I’ll walk you through how to let this remote environment be an opportunity to explore your *own* curiosities.
+Whether you decide to disenroll from school and fly across the country or take an extra 10 hours from your week, I’ll walk you through how to let this remote environment be an opportunity to explore your *own* curiosities.
 
 <img alt="Fall Penn State" src="./oldmain.jpg" style="border-radius: 5%; width: 75%; height: auto;">
 
 ## Start with a side-gig
 If there’s something you’re yearning to learn, don’t always settle for what’s in the classroom.
 
-I became extremely excited by technology and equally frustrated by the lack of opportunities offered by the university. In fact the majority of my exploration came by joining incredible student orgs such as [Happy Valley Capital](http://www.hvcpsu.com/).
+I became extremely excited by technology and equally frustrated by the lack of opportunities offered by the university. In fact, the majority of my exploration came by joining incredible student orgs such as [Happy Valley Capital](http://www.hvcpsu.com/).
 
 I started supplementing my education by working remotely for startups. I’d cold email founders that fascinated me and offer to help as a part-time intern (no strings attached). 
 
@@ -67,7 +67,7 @@ There's so much inconsistency in college. Exams, projects, and social events tha
 
 In January of 2020, I flew out to San Francisco for the first time on my own. Taking a complete pause from school helped me refocus on what I wanted to accomplish — learning and working in technology.
 
-Although, my intentions may be different than yours — if you're just looking for experience then there's nothing stopping you from taking a lighter course load, going part-time, or supplementing your free-time. 
+My intentions may be different than yours — if you're just looking for experience then there's nothing stopping you from taking a lighter course load, going part-time, or supplementing your free-time. 
 
 You need to first assess what you want to accomplish then work backward.
 
@@ -106,7 +106,7 @@ If you don't know where to start then join a gap year community, find online for
 ## Learn what you love (and hate)
 You don’t know what you don’t know. 
 
-During my gap year I got to explore working at a startup, venture capital, and ultimately a growth marketing startup. I didn't even know what growth marketing was until I came to Silicon Valley — let alone that it'd be the perfect fit for my personal interests.
+During my gap year I got to explore working at a startup, venture capital, and ultimately a growth marketing startup. I didn't even know what growth marketing was until I came to Silicon Valley — let alone that it'd be the perfect fit for my interests.
 
 Taking small risks one step at a time lets you consistently iterate and optimize for your definition of success.
 

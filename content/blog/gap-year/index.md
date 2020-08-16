@@ -1,9 +1,9 @@
 ---
 title: 2020 Gap Year
 date: "2020-08-15T22:40:32.169Z"
-description: Guide to taking a 2020 gap year and making the most of remote education. I'll explain how I left school and broke into Silicon Valley as a non-technical student.
+description: Guide to taking a 2020 gap year and working in venture capital and startups. I'll explain how I left school and broke into Silicon Valley as a non-technical student.
 ---
-*Guide to taking a 2020 gap year and making the most of remote education. I'll explain how I left school and broke into Silicon Valley as a non-technical student.*
+*Guide to taking a 2020 gap year and working in venture capital and startups. I'll explain how I left school and broke into Silicon Valley as a non-technical student.*
 
 <img alt="Lake Tahoe" src="./tahoe.JPG" style="border-radius: 5%; width: 75%; height: auto;">
 

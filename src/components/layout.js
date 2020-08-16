@@ -66,7 +66,7 @@ class Layout extends React.Component {
       >
         <header>{header}</header>
         <main>{children}</main>
-        <footer>
+        <footer><p>More on me:
 <a style={{
               boxShadow: `none`,
               textDecoration: `none`,
@@ -79,7 +79,7 @@ class Layout extends React.Component {
               background: `none`,
              
       }} class="highlight1" href="https://www.twitter.com/mattmaiale" target="_blank"> Twitter</a>
-        </footer>
+        </p></footer>
       </div>
     )
   }

@@ -1,14 +1,14 @@
 ---
 title: 2020 Gap Year
 date: "2020-08-15T22:40:32.169Z"
-description: How I left school as a non-technical background and worked in venture capital and startups. 
+description: How I left school as a non-technical background and worked in venture capital and startups in San Francisco. 
 ---
-*How I left school as a non-technical student and worked in venture capital and entrepreneurship.*
+*How I left school as a non-technical student and worked in both venture capital and entrepreneurship in San Francisco.*
 
 <img alt="Lake Tahoe" src="./tahoe.JPG" style="border-radius: 5%; width: 75%; height: auto;">
 
 ## Why I left school.
-We enter college with unbounded career aspirations. We set out to be neuroscientists, politicians, artists, and for me a technology entrepreneur. Then we become [conformists](http://www.paulgraham.com/conformism.html).
+We enter college with unbounded career aspirations. We set out to be neuroscientists, politicians, artists, and for me a tech entrepreneur. Then we become [conformists](http://www.paulgraham.com/conformism.html).
 
 *We don’t listen to ourselves.*
 
@@ -20,7 +20,7 @@ I let my ego get the best of me. I was striving towards what others saw as succe
 
 Halfway through my sophomore year I ultimately realized that pursuing finance wasn’t getting me any closer to my tech dreams.
 
-I left school in spring 2020 — and it has been the best decision of my life. During the first 8 months of my gap year I went to San Francisco to work at a seed venture capital fund, invest in 30 startups, and ultimately joined an incredible [growth marketing YC S19 startup](http://www.demandcurve.com/).
+I decided to start over by leaving school in spring 2020 — and it has been the best decision of my life. During the first 8 months of my gap year I went to San Francisco to work at a seed venture capital fund, invest in 30 startups, and ultimately joined an incredible [YC S19 startup](http://www.demandcurve.com/).
 
 I’ll share my experience on how I left as a non-technical background, afforded to live in [San Francisco](https://www.tribecoliving.com/), and ended up readjusted my entire life trajectory.
 
@@ -49,9 +49,9 @@ The first two startups I joined in college were unpaid part-time positions — a
 
 Part-time internships are the most uniquely valuable way to peek inside a company without committing 2+ years of your life.
 
-You also don't know where opportunities will lead you. While working for the FinTech startup in San Francisco, I got connected to an incredible opportunity in venture capital.
+You also don't know where opportunities will lead you. While working for the FinTech startup in San Francisco, I got connected to an opportunity in venture capital.
 
-What excited me about the opportunity was that venture capital is one of the easiest ways to segway from a finance background into tech. 
+What excited me about venture capital is that it is one of the easiest ways to segway from a finance background into tech. 
 
 All during finals week I completed a 3-part interview, got the offer, disenrolled from class, and packed up my dorm room.
 
@@ -63,11 +63,11 @@ All during finals week I completed a 3-part interview, got the offer, disenrolle
 <img alt="Golden Gate Bridge" src="./IMG_0117.jpg" style="border-radius: 5%; width: 75%; height: auto;">
 
 ## Taking a leave of absence
-There's so much inconsistency in college. Exams, projects, and social events that take up every hour from your day. It becomes nearly impossible to focus on side-projects.
+There's so much inconsistency in college. Exams, projects, and social events take up every hour from your day. It becomes nearly impossible to focus on side-projects.
 
-In January of 2020, I flew out to San Francisco for the first time on my own. Taking a complete pause from school helped me refocus on what I wanted to accomplish — learning and working in technology.
+In January of 2020, I flew out to San Francisco on my own. Taking a complete pause from school helped me refocus on what I wanted to accomplish — learning and working in technology.
 
-My intentions may be different than yours — if you're just looking for experience then there's nothing stopping you from taking a lighter course load, going part-time, or supplementing your free-time. 
+My intentions may be different than yours though — if you're just looking for experience then there's nothing stopping you from taking a lighter course load, going part-time, or supplementing your free-time. 
 
 You need to first assess what you want to accomplish then work backward.
 
@@ -77,13 +77,13 @@ You need to first assess what you want to accomplish then work backward.
   - [Zero to One](https://www.goodreads.com/book/show/18050143-zero-to-one?from_search=true&from_srp=true&qid=b6f0eXcwsU&rank=1) (Differentiate yourself)
   
 ## Become an expert in something unique
-Whether you decide to take off the year or only dedicate a few hours each week, you'll get to build moats — uniquely valuable skills.
+Taking time off lets build moats — uniquely valuable skills.
 
-Between both my part-time internships and gap year I learned how to raise a seed fund, invest in early stage startups, product management, and strategies. 
+Between both my part-time internships and gap year I learned how to invest in early stage startups, do business development, and be an effective product manager. 
 
 While none of these skills necessarily built off each other and my journey has been extremely non-linear, the diversity of perspectives helps me think more critically.
 
-For instance, working in Biz Dev at 2 startups gave me a unique perspective while due diligencing startups in venture capital.
+For instance, working in business development at the 2 startups gave me a unique perspective while due diligencing startups in venture capital.
 
 > “The challenge we all face is how to maintain the benefits of breadth, diverse experience, interdisciplinary thinking, and delayed concentration in a world that
 increasingly incentivizes, even demands, hyperspecialization” ― David Epstein
@@ -95,7 +95,7 @@ I’ve gotten the opportunity to meet so many incredible people based on mutual 
 
 If you don't know where to start then join a gap year community, find online forums for your interests, or chat with alumni at your university. 
 
-- **Student communities:**
+- **Online communities:**
   - [Remote students](https://remotestudents.co/) (gap year community)
   - [Hiatus Work](https://www.hiatus.work/) (gap year community)
   - [Lunchclub](https://lunchclub.ai/) (have a virtual 1:1 networking lunch)
@@ -113,7 +113,7 @@ Taking small risks one step at a time lets you consistently iterate and optimize
 ## Next steps👉
 Remote education is the perfect opportunity to pick up new skills as the world readjusts. No one is going to parties, no recruiters are on campus, and the rest of the world certainly isn't moving on without you.
 
-Taking off from school was the best decision of my life and allowed me to readjust my aspirations to ultimately pursue what makes me happy. I can’t wait to come back to college with an incredibly different perspective that’ll help me make the most of my last year and a half (especially club cross country woot-woot!).
+Taking off from school was the best decision of my life and allowed me to ultimately pursue what makes me happy. I can’t wait to come back to college with an incredibly different perspective that’ll help me make the most of my last year and a half.
 
 Want to hear more? DM me on Twitter: [@mattmaiale](https://twitter.com/mattmaiale?lang=en)
 

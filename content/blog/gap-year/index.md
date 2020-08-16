@@ -20,9 +20,9 @@ I let my ego get the best of me. I was striving towards what others saw as succe
 
 Halfway through my sophomore year I ultimately realized that pursuing finance wasn’t getting me any closer to my tech dreams.
 
-I left school in spring 2020 — and it has been the best decision of my life. During the first 8 months of my gap year I worked at a seed venture capital fund in San Francisco, got exposure to Silicon Valley, and ultimately joined an incredible growth marketing startup.
+I left school in spring 2020 — and it has been the best decision of my life. During the first 8 months of my gap year I worked at a seed venture capital fund in San Francisco, got exposure to Silicon Valley, and ultimately joined an incredible [growth marketing startup](http://www.demandcurve.com/).
 
-I’ll share my experience on how I left as a non-technical background, afforded to live in San Francisco, and ended up readjusted my entire life trajectory.
+I’ll share my experience on how I left as a non-technical background, afforded to live in [San Francisco](https://www.tribecoliving.com/), and ended up readjusted my entire life trajectory.
 
 Whether you decide to disenroll from school and fly across the country, or take an extra 10 hours from your week, I’ll walk you through how to let this remote environment be an opportunity to explore your *own* curiosities.
 
@@ -37,11 +37,11 @@ I started supplementing my education by working remotely for startups. I’d col
 
 To my surprise, most startups were extremely receptive and respected my drive to reshape my college career. 
 
-All while taking a full course load, I joined a blockchain company based in Switzerland, then later a FinTech YC startup in San Francisco.
+All while taking a full course load, I joined a [blockchain company](http://www.swissrealty.io) based in Switzerland, then later a [FinTech YC startup](http://joinpuzzl.com) in San Francisco.
 
 - **Where to find remote opportunities:**
   - [angel.co](http://www.angel.co/) (where I started)
-  - [workatastartup.com](http://www.workatastartup.com/) (For Y Combinator startups)
+  - [workatastartup.com](http://www.workatastartup.com/) (where I went next)
   - On-campus clubs (entrepreneurship focused)
 
 ## Be open to different opportunities
@@ -65,7 +65,7 @@ All during finals week I completed a 3-part interview, got the offer, disenrolle
 ## Taking a leave of absence
 There's so much inconsistency in college. Exams, projects, and social events that take up every hour from your day. It becomes nearly impossible to focus on side-projects.
 
-In January of 2020, I flew out to San Francisco for the first time on my own. Taking a complete pause from school helped me refocus on what I wanted to accomplish -- learning and networking in technology.
+In January of 2020, I flew out to San Francisco for the first time on my own. Taking a complete pause from school helped me refocus on what I wanted to accomplish — learning and networking in technology.
 
 Although, my intentions may be different than yours — if you're just looking for experience then there's nothing stopping you from taking a lighter course load, going part-time, or supplementing your free-time. 
 
@@ -91,14 +91,14 @@ increasingly incentivizes, even demands, hyperspecialization” ― David Epstei
 ## Meet interesting people
 Building unique skills is one of the easiest ways to meet super interesting people too. You'll naturally be able to spark up conversations with people of similar interests and build a mutual connection.
 
-I’ve gotten the opportunity to meet so many incredible people based on mutual connections of leaving school, entrepreneurship, running, and even learning Spanish.
+I’ve gotten the opportunity to meet so many incredible people based on mutual connections of leaving school, journaling, running, and even learning Spanish.
 
 If you don't know where to start then join a gap year community, find online forums for your interests, or chat with alumni at your university. 
 
 - **Student communities:**
   - [Remote students](https://remotestudents.co/) (gap year community)
-  - [Lunchclub](https://lunchclub.ai/) (have a virtual 1:1 networking lunch)
   - [Hiatus Work](https://www.hiatus.work/) (gap year community)
+  - [Lunchclub](https://lunchclub.ai/) (have a virtual 1:1 networking lunch)
   - [Happy Valley Capital](http://www.hvcpsu.com/) (Penn State students and alumni only)
   
 <img alt="AWS Loft" src="./IMG_1238.jpg" style="border-radius: 5%; width: 75%; height: auto;">

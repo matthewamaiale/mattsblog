@@ -115,6 +115,8 @@ Remote education is the perfect opportunity to pick up new skills as the world r
 
 Taking off from school was the best decision of my life and allowed me to readjust my aspirations to ultimately pursue what makes me happy. I can’t wait to come back to college with an incredibly different perspective that’ll help me make the most of my last year and a half (especially club cross country woot-woot!).
 
+Want to hear more? DM me on Twitter: [@mattmaiale](https://twitter.com/mattmaiale?lang=en)
+
 - **Read others' gap year stories:**
   - [Nathan Leung](https://www.natecation.com/tech-startup-gap-year-playbook/) (UMich '22 dropout)
   - [Kelvin Yu](https://www.kelv.me/gap-year) (Princeton '22 gap year)

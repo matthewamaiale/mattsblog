@@ -1,14 +1,14 @@
 ---
-title: Gap Year
+title: 2020 Gap Year
 date: "2020-08-15T22:40:32.169Z"
-description: A non-comprehensive guide on taking off from school and making the most of remote learning. I'll share my story of taking a gap year to work in Silicon Valley.
+description: Guide to taking a 2020 gap year and making the most of remote education. I'll explain how I left school and broke into Silicon Valley as a non-technical student.
 ---
-*A non-comprehensive guide on taking off from school and making the most of remote learning. I'll share my story of taking a gap year to work in Silicon Valley.*
+*Guide to taking a 2020 gap year and making the most of remote education. I'll explain how I left school and broke into Silicon Valley as a non-technical student.*
 
 <img alt="Lake Tahoe" src="./tahoe.JPG" style="border-radius: 5%; width: 75%; height: auto;">
 
 ## Why I left school.
-We enter college with unbounded career aspirations. We set out to be neuroscientists, politicians, artists, and for me an entrepreneur. Then we become [conformists](http://www.paulgraham.com/conformism.html).
+We enter college with unbounded career aspirations. We set out to be neuroscientists, politicians, artists, and for me a technology entrepreneur. Then we become [conformists](http://www.paulgraham.com/conformism.html).
 
 *We don’t listen to ourselves.*
 
@@ -110,12 +110,10 @@ During my gap year I got to explore working at a startup, venture capital, and u
 
 Taking small risks one step at a time lets you consistently iterate and optimize for your definition of success.
 
-## Next steps
+## Next steps👉
 Remote education is the perfect opportunity to pick up new skills as the world readjusts. No one is going to parties, no recruiters are on campus, and the rest of the world certainly isn't moving on without you.
 
 Taking off from school was the best decision of my life and allowed me to readjust my aspirations to ultimately pursue what makes me happy. I can’t wait to come back to college with an incredibly different perspective that’ll help me make the most of my last year and a half (especially club cross country woot-woot!).
-
-<img alt="Thanks to whoever took this photo I got it off Calvin's insta" src="./psuclubxc.png" style="border-radius: 5%; width: 75%; height: auto;">
 
 - **Read others' gap year stories:**
   - [Nathan Leung](https://www.natecation.com/tech-startup-gap-year-playbook/) (UMich '22 dropout)

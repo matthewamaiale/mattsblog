@@ -61,7 +61,7 @@ It’s not only important to understand your values but to prioritize them too. 
 
 ### How to determine your values?
 
-Since we live through our values subconsciously it’s difficult to articulate them immediately. You’ve probably confronted your values when you had a ‘gut feeling’ something was either right or wrong. If you’re interested in learning your values, here’s a link to the 3–4 week value mapping exercise I aggregated from a few friends and books I read.
+Since we live through our values subconsciously it’s difficult to articulate them immediately. You’ve probably confronted your values when you had a ‘gut feeling’ something was either right or wrong. If you’re interested in learning your values, [here’s a link](https://docs.google.com/document/d/1YblRNsqd0lwHI0T4ePKxukGCgnzjBUPc4sDJ6u3lqKk/edit#heading=h.eyqaiiqwzsi5) to the 3–4 week value mapping exercise I aggregated from a few friends and books I read.
 
 ### Evolving values
 

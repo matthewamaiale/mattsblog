@@ -58,14 +58,14 @@ All during finals week I completed a 3-part interview, got the offer, disenrolle
 - **How to stand out while applying to startups**
   - Build a personal website ([like this site](http://www.maiale.me/))
   - Write interesting essays (shows your critical thinking skills)
-  - Build a portfolio (coding, design, marketing)
+  - Build a portfolio ([coding](http://www.freecodecamp.com/), design, [marketing](https://www.julian.com/guide/growth/intro))
 
 <img alt="Golden Gate Bridge" src="./IMG_0117.jpg" style="border-radius: 5%; width: 75%; height: auto;">
 
 ## Taking a leave of absence
 There's so much inconsistency in college. Exams, projects, and social events that take up every hour from your day. It becomes nearly impossible to focus on side-projects.
 
-In January of 2020, I flew out to San Francisco for the first time on my own. Taking a complete pause from school helped me refocus on what I wanted to accomplish — learning and networking in technology.
+In January of 2020, I flew out to San Francisco for the first time on my own. Taking a complete pause from school helped me refocus on what I wanted to accomplish — learning and working in technology.
 
 Although, my intentions may be different than yours — if you're just looking for experience then there's nothing stopping you from taking a lighter course load, going part-time, or supplementing your free-time. 
 
@@ -79,7 +79,7 @@ You need to first assess what you want to accomplish then work backward.
 ## Become an expert in something unique
 Whether you decide to take off the year or only dedicate a few hours each week, you'll get to build moats — uniquely valuable skills.
 
-Between both my part-time internships and gap year I learned how to raise a fund, due diligence + invest in startups, and ultimately what it takes to start a company. 
+Between both my part-time internships and gap year I learned how to raise a seed fund, invest in early stage startups, product management, and strategies. 
 
 While none of these skills necessarily built off each other and my journey has been extremely non-linear, the diversity of perspectives helps me think more critically.
 

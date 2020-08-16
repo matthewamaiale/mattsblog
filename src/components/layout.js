@@ -67,24 +67,12 @@ class Layout extends React.Component {
         <header>{header}</header>
         <main>{children}</main>
         <footer>
-         <a style={{
+<a style={{
               boxShadow: `none`,
               textDecoration: `none`,
               background: `none`,
              
-      }}
-
-      href="mailto:m@maiale.me" target="_blank">Email</a> ∙ <a style={{
-              boxShadow: `none`,
-              textDecoration: `none`,
-              background: `none`,
-             
-      }} class="highlight1" href="https://www.linkedin.com/in/mattmaiale/" target="_blank">LinkedIn</a> ∙ <a style={{
-              boxShadow: `none`,
-              textDecoration: `none`,
-              background: `none`,
-             
-      }} href="https://medium.com/@maiale" target="_blank" class="highlight1">Medium</a> ∙ 
+      }} class="highlight1" href="https://www.linkedin.com/in/mattmaiale/" target="_blank">LinkedIn</a> ∙ 
 <a style={{
               boxShadow: `none`,
               textDecoration: `none`,

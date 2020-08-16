@@ -57,7 +57,7 @@ All during finals week I completed a 3-part interview, got the offer, disenrolle
 
 - **How to stand out while applying to startups**
   - Build a personal website ([like this site](http://www.maiale.me/))
-  - Write interesting essays (shows your critical thinking skills)
+  - Write [interesting essays](http://www.paulgraham.com/useful.html) (shows your critical thinking skills)
   - Build a portfolio ([coding](http://www.freecodecamp.com/), design, [marketing](https://www.julian.com/guide/growth/intro))
 
 <img alt="Golden Gate Bridge" src="./IMG_0117.jpg" style="border-radius: 5%; width: 75%; height: auto;">

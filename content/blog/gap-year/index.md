@@ -122,4 +122,4 @@ Want to hear more? DM me on Twitter: [@mattmaiale](https://twitter.com/mattmaial
   - [Kelvin Yu](https://www.kelv.me/gap-year) (Princeton '22 gap year)
   - [Helena Merk](https://medium.com/age-of-awareness/i-dropped-out-of-college-should-you-af9ab61231f3) (Duke '21 dropout)
 
-**Thanks** to Chloe Connor, Connie Fang, Iris Fu, Kelvin Yu, Kirti Shenoy, Leanne Shen, Nathan Leung, and Raymond Friend for reading drafts of this.
+**Thanks** to Chloe Connor, Kelvin Yu, Kirti Shenoy, Leanne Shen, Nathan Leung, and Raymond Friend for reading drafts of this.

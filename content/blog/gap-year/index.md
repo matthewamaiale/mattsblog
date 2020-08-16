@@ -5,7 +5,7 @@ description: This guide offers my experience taking a gap year and a framework f
 ---
 *This guide offers my experience taking a gap year and a framework for deciding what time off means to you. I’ll explain through the perspective of breaking into Silicon Valley.*
 
-<img alt="Fall Penn State" src="./oldmain.jpg" style="border-radius: 5%; width: 75%; height: auto;">
+<img alt="Lake Tahoe" src="./tahoe.JPG" style="border-radius: 5%; width: 75%; height: auto;">
 
 ## Why I left school.
 We enter college with unbounded career aspirations. We set out to be neuroscientists, politicians, artists, and for me an entrepreneur. Then we become [conformists](http://www.paulgraham.com/conformism.html).
@@ -24,6 +24,8 @@ Halfway through my sophomore year I ultimately decided I needed to start from sc
 I left school in spring 2020 — and it has been the best decision of my life. During the first 8 months of my gap year I worked at a seed venture capital fund in San Francisco, got exposure to Silicon Valley, and ultimately joined an incredible growth marketing startup.
 
 I’ll share my experience on how I left as a non-technical background, afforded to live in San Francisco, and ended up readjusted my entire life trajectory.
+
+<img alt="Fall Penn State" src="./oldmain.jpg" style="border-radius: 5%; width: 75%; height: auto;">
 
 ## Start with a side-gig
 If there’s something you’re yearning to learn, don’t always settle for what’s in the classroom.
@@ -98,8 +100,8 @@ If you don't know where to start then join a gap year community, find online for
   - [Remote students](https://remotestudents.co/) (gap year community)
   - [Lunchclub](https://lunchclub.ai/) (have a virtual 1:1 networking lunch)
   - [Happy Valley Capital](http://www.hvcpsu.com/) (Penn State students and alumni only)
- 
-<img alt="Lake Tahoe" src="./tahoe.JPG" style="border-radius: 5%; width: 75%; height: auto;">
+  
+<img alt="AWS Loft" src="./IMG_1238.jpg" style="border-radius: 5%; width: 75%; height: auto;">
 
 ## Learn what you love (and hate)
 You don’t know what you don’t know. 

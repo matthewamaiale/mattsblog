@@ -66,7 +66,7 @@ class Layout extends React.Component {
       >
         <header>{header}</header>
         <main>{children}</main>
-        <footer><p>More on me: 
+        <footer><p> 
 <a style={{
               boxShadow: `none`,
               textDecoration: `none`,

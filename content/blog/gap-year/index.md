@@ -22,9 +22,9 @@ Halfway through my sophomore year I realized that pursuing finance wasn’t gett
 
 I decided to start over by leaving school in spring 2020 — and it has been the best decision of my life. During the first 8 months of my gap year I went to San Francisco to work at a seed venture capital fund, invest in 30 startups, and ultimately joined an incredible [YC S19 startup](http://www.demandcurve.com/).
 
-I’ll share my experience on how I left as student with a non-technical background, afforded to live in [San Francisco](https://www.tribecoliving.com/), and aligned my career trajectory with my original life goals.
+Whether you decide to disenroll from school and fly across the country or dedicate an extra 10 hours each week, make the most of this remote environment to explore your *own* curiosities.
 
-Whether you decide to disenroll from school and fly across the country or dedicate an extra 10 hours each week, I’ll walk you through how to let this remote environment be an opportunity to explore your *own* curiosities.
+I’ll share my experience on how I left as student with a non-technical background, afforded to live in [San Francisco](https://www.tribecoliving.com/), and aligned my career trajectory with my original life goals.
 
 <img alt="Fall Penn State" src="./oldmain.jpg" style="border-radius: 5%; width: 75%; height: auto;">
 

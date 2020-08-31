@@ -108,12 +108,16 @@ You don’t know what you don’t know.
 
 During my gap year I got to explore working at a startup, venture capital, and ultimately a growth marketing startup. I didn't even know what growth marketing was until I came to Silicon Valley — let alone that it'd be the perfect fit for my interests.
 
+On the other hand I realized I disliked working in Biz Dev based on my personality traits and tendencies. This potentially could have saved me years of pursuing the wrong field since I got to explore the role in a bite-sized chunk.
+
 Taking small risks one step at a time lets you consistently iterate and optimize for your definition of success.
 
 ## Next steps👉
 Remote education is the perfect opportunity to pick up new skills as the world readjusts. No one is going to parties, no recruiters are on campus, and the rest of the world certainly isn't moving on without you.
 
-Taking off from school was the best decision of my life and allowed me to ultimately pursue what makes me happy. I can’t wait to come back to college with an incredibly different perspective that’ll help me make the most of my last year and a half.
+Taking off from school was the best decision of my life and allowed me to ultimately pursue what makes me happy. At first I comtemplated even returning to college. If I'm learning 2x more outside of school and making great progress, why go back?
+
+But college is not just about preparing for work life. It's about making friends, exploring new interests in a risk-free environment, and ultimately building your identity. My new perspective has allowed me to build an appreciation for everything my college has to offer to make the most of my remaining one and a half years. 
 
 Want to hear more? DM me on Twitter: [@mattmaiale](https://twitter.com/mattmaiale?lang=en)
 
@@ -122,4 +126,4 @@ Want to hear more? DM me on Twitter: [@mattmaiale](https://twitter.com/mattmaial
   - [Kelvin Yu](https://www.kelv.me/gap-year) (Princeton '22 gap year)
   - [Helena Merk](https://medium.com/age-of-awareness/i-dropped-out-of-college-should-you-af9ab61231f3) (Duke '21 dropout)
 
-**Thanks** to Chloe Connor, Kelvin Yu, Kirti Shenoy, Leanne Shen, Nathan Leung, and Raymond Friend for reading drafts of this.
+**Thanks** to Chloe Connor, Connie Fang, Kelvin Yu, Kirti Shenoy, Leanne Shen, Nathan Leung, and Raymond Friend for reading drafts of this.

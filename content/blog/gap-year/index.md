@@ -5,7 +5,7 @@ description: How I left school as a non-technical background and worked in ventu
 ---
 *How I left school as a non-technical student and worked in both venture capital and entrepreneurship in San Francisco.*
 
-<img alt="Lake Tahoe" src="./tahoe.JPG" style="border-radius: 5%; width: 75%; height: auto;">
+<img alt="Lake Tahoe with the bois" src="./tahoe.JPG" style="border-radius: 5%; width: 75%; height: auto;">
 
 ## Why I left school.
 We enter college with unbounded career aspirations. We set out to be neuroscientists, politicians, artists, and for me a tech entrepreneur. Then we become [conformists](http://www.paulgraham.com/conformism.html).
@@ -26,7 +26,7 @@ Whether you decide to disenroll from school and fly across the country or dedica
 
 I’ll share my experience on how I left as student with a non-technical background, afforded to live in [San Francisco](https://www.tribecoliving.com/), and aligned my career trajectory with my original life goals.
 
-<img alt="Fall Penn State" src="./oldmain.jpg" style="border-radius: 5%; width: 75%; height: auto;">
+<img alt="Fall Penn State, aren't the leafs so pretty?" src="./oldmain.jpg" style="border-radius: 5%; width: 75%; height: auto;">
 
 ## Start with a side-gig
 If there’s something you’re yearning to learn, don’t always settle for what’s in the classroom.
@@ -60,7 +60,7 @@ All during finals week I completed a 3-part interview, got the offer, disenrolle
   - Write [interesting essays](http://www.paulgraham.com/useful.html) (shows your critical thinking skills)
   - Build a portfolio ([coding](http://www.freecodecamp.com/), design, [marketing](https://www.julian.com/guide/growth/intro))
 
-<img alt="Golden Gate Bridge" src="./IMG_0117.jpg" style="border-radius: 5%; width: 75%; height: auto;">
+<img alt="Golden Gate Bridge is a beauty" src="./IMG_0117.jpg" style="border-radius: 5%; width: 75%; height: auto;">
 
 ## Taking a leave of absence
 There's so much inconsistency in college. Exams, projects, and social events take up every hour from your day. It becomes nearly impossible to focus on side-projects.
@@ -101,7 +101,7 @@ If you don't know where to start then join a gap year community, find online for
   - [Lunchclub](https://lunchclub.ai/) (have a virtual 1:1 networking lunch)
   - [Happy Valley Capital](http://www.hvcpsu.com/) (Penn State students and alumni)
   
-<img alt="AWS Loft" src="./IMG_1238.jpg" style="border-radius: 5%; width: 75%; height: auto;">
+<img alt="I beat Nate." src="./IMG_1238.jpg" style="border-radius: 5%; width: 75%; height: auto;">
 
 ## Learn what you love (and hate)
 You don’t know what you don’t know. 

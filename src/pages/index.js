@@ -21,7 +21,7 @@ class BlogIndex extends React.Component {
           return (
             <article key={node.fields.slug}>
               <header>
-                <p
+               <b> <p
                   style={{
                     marginBottom: rhythm(1 / 6),
                     marginTop: rhythm(0.75),
@@ -31,7 +31,7 @@ class BlogIndex extends React.Component {
                   <Link style={{ }} to={node.fields.slug}>
                     {title}
                   </Link>
-                </p>
+                </p></b>
                 <small>{node.frontmatter.date}</small>
               </header>
               <section>

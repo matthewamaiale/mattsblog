@@ -58,7 +58,7 @@ const Bio = () => {
 
       <p className="hidden" id="pp2" style={{
         fontSize: `22px`,
-	font-weight: `500`
+	fontWeight: `500`
 					   }}
       >
 

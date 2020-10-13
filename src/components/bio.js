@@ -68,7 +68,7 @@ const Bio = () => {
 style={{
         fontSize: `29px`,
        marginBottom: rhythm(0.4),
-      }}>About</b>*/
+      }}>About </b>*/
 
 <p>At Penn State I'm studying finance and economics, run club cross country, and am the president of our <Link class="highlight1" target="_blank" href="https://hvcpsu.com/">student vc fund</Link>. During my first two summers of college I interned in <Link class="highlight1" target="_blank" href="http://chathamfinancial.com/">derivatives consulting</Link> and at a <Link href="http://joinpuzzl.com" target="_blank" class="highlight1">FinTech</Link> startup.</p>
 

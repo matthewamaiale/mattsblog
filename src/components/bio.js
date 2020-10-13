@@ -70,9 +70,9 @@ style={{
        marginBottom: rhythm(0.4),
       }}>About </b>*/}
 
-<p>At Penn State I'm studying finance and economics, run club cross country, and am the president of our <Link style={background: `none`} class="highlight1" target="_blank" href="https://hvcpsu.com/">student vc fund</Link>. During my first two summers of college I interned in derivatives consulting and at a <Link style={background: `none`} href="http://joinpuzzl.com" target="_blank" class="highlight1">FinTech</Link> startup.</p>
+<p>At Penn State I'm studying finance and economics, run club cross country, and am the president of our <Link class="highlight1" target="_blank" href="https://hvcpsu.com/">student vc fund</Link>. During my first two summers of college I interned in derivatives consulting and at a <Link href="http://joinpuzzl.com" target="_blank" class="highlight1">FinTech</Link> startup.</p>
 
-<p>I'm also avid distance <Link class="highlight1" style={background: `none`} target="_blank" href="https://www.strava.com/athletes/19065423">runner</Link> (45 miles per week), play modern piano, <Link class="highlight1" style={background: `none`} href="https://www.goodreads.com/maiale" target="_blank">read</Link> non-fiction and philosophy, and have been to over <Link style={background: `none`} href="https://docs.google.com/document/d/1GrIVKaveYCPvnJQSQQhxn0pXMeWN-j4DtpuXFBtGqoI/edit?usp=sharing" target="_blank" class="highlight1">30 concerts</Link>.</p>
+<p>I'm also avid distance <Link class="highlight1" target="_blank" href="https://www.strava.com/athletes/19065423">runner</Link> (45 miles per week), play modern piano, <Link class="highlight1" href="https://www.goodreads.com/maiale" target="_blank">read</Link> non-fiction and philosophy, and have been to over <Link href="https://docs.google.com/document/d/1GrIVKaveYCPvnJQSQQhxn0pXMeWN-j4DtpuXFBtGqoI/edit?usp=sharing" target="_blank" class="highlight1">30 concerts</Link>.</p>
   <b style={{
         fontSize: `29px`,
 	marginBottom: rhythm(0),

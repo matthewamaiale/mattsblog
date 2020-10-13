@@ -58,7 +58,7 @@ const Bio = () => {
 <b
 style={{
         fontSize: `29px`,
-       marginBottom: rhythm(0.5),
+       marginBottom: rhythm(0.4),
       }}>About</b>
       <p className="hidden" id="pp2">
 

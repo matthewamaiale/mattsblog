@@ -58,7 +58,7 @@ const Bio = () => {
 <b
 style={{
         fontSize: `27px`,
-      }}>About me🤸</b>
+      }}>About me</b>
       <p className="hidden" id="pp2">
 
        I took a leave of absence in spring 2020 to work at a venture capital fund in San Francisco. After discovering my passion for growth marketing and startups, I joined <Link className="highlight1" href="https://demandcurve.com" target="_blank">Demand Curve (YC S19)</Link>.
@@ -70,7 +70,7 @@ style={{
   <b style={{
         fontSize: `27px`,
 	marginBottom: rhythm(0),
-      }}>Essays✍️</b>
+      }}>Essays</b>
 </div>
   )
 }

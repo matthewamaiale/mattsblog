@@ -16,7 +16,6 @@ const Link = styled.a`
   transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
   text-decoration: none;
   box-shadow: none;
-  color: black;
   &:hover {
     background: linear-gradient(180deg,rgba(255,255,255,0) 60%, rgba(0,87,169, .13) 40%);
     border-radius: 17%;

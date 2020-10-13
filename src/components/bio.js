@@ -58,19 +58,19 @@ const Bio = () => {
 <b
 style={{
         fontSize: `27px`,
-      }}>About me</b>
+      }}>About</b>
       <p className="hidden" id="pp2">
 
-       I took a leave of absence in spring 2020 to work at a venture capital fund in San Francisco. After discovering my passion for growth marketing and startups, I joined <Link className="highlight1" href="https://demandcurve.com" target="_blank">Demand Curve (YC S19)</Link>.
+       I'm a growth marketer at <Link className="highlight1" href="https://demandcurve.com" target="_blank">Demand Curve (YC S19)</Link>. Before joining the team, I helped raised a seed venture capital fund in San Francisco.
 	      </p>
 
 <p>At Penn State I'm studying finance and economics, run club cross country, and am the president of our <Link class="highlight1" target="_blank" href="https://hvcpsu.com/">student vc fund</Link>. During my first two summers of college I interned in <Link class="highlight1" target="_blank" href="http://chathamfinancial.com/">derivatives consulting</Link> and at a <Link href="http://joinpuzzl.com" target="_blank" class="highlight1">FinTech</Link> startup.</p>
 
-<p>I'm also avid distance <Link class="highlight1" target="_blank" href="https://www.strava.com/athletes/19065423">runner</Link> (45 miles per week), play modern piano, <Link class="highlight1" href="https://www.goodreads.com/maiale" target="_blank">read</Link> non-fiction and classics, and have been to over <Link href="https://docs.google.com/document/d/1GrIVKaveYCPvnJQSQQhxn0pXMeWN-j4DtpuXFBtGqoI/edit?usp=sharing" target="_blank" class="highlight1">30 concerts</Link>.</p>
+<p>I'm also avid distance <Link class="highlight1" target="_blank" href="https://www.strava.com/athletes/19065423">runner</Link> (45 miles per week), play modern piano, <Link class="highlight1" href="https://www.goodreads.com/maiale" target="_blank">read</Link> non-fiction and philosophy, and have been to over <Link href="https://docs.google.com/document/d/1GrIVKaveYCPvnJQSQQhxn0pXMeWN-j4DtpuXFBtGqoI/edit?usp=sharing" target="_blank" class="highlight1">30 concerts</Link>.</p>
   <b style={{
         fontSize: `27px`,
-	marginBottom: rhythm(0),
-      }}>Essays</b>
+	marginBottom: rhythm(-0.5),
+      }}>Writing</b>
 </div>
   )
 }

@@ -21,17 +21,17 @@ class BlogIndex extends React.Component {
           return (
             <article key={node.fields.slug}>
               <header>
-                <h3
+                <p
                   style={{
                     marginBottom: rhythm(1 / 6),
                     marginTop: rhythm(0.75),
                     fontSize: `20px`,
                   }}
                 >
-                  <Link style={{ color: `black` }} to={node.fields.slug}>
+                  <Link style={{ }} to={node.fields.slug}>
                     {title}
                   </Link>
-                </h3>
+                </p>
                 <small>{node.frontmatter.date}</small>
               </header>
               <section>

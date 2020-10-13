@@ -63,7 +63,7 @@ const Bio = () => {
       >
 
        I'm a growth marketer at <Link className="highlight1" href="https://demandcurve.com" target="_blank">Demand Curve (YC S19)</Link>. Before joining the team, I helped raise a seed venture capital fund in San Francisco.
-	      </hp>
+	      </p>
 /*<b
 style={{
         fontSize: `29px`,

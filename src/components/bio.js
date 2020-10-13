@@ -28,7 +28,7 @@ const Link = styled.a`
 const Bio = () => {
   const data = useStaticQuery(graphql`
     query BioQuery {
-      avatar: file(absolutePath: { regex: "/profile-pic.jpg/" }) {
+      avatar: file(absolutePath: { regex: "/image1.png/" }) {
         childImageSharp {
           fixed(width: 300, height: 300) {
             ...GatsbyImageSharpFixed

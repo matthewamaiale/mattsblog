@@ -56,15 +56,19 @@ const Bio = () => {
     >
 
 
-      <h3 className="hidden" id="pp2">
+      <p className="hidden" id="pp2" style={{
+        fontSize: `22px`,
+	font-weight: `500`
+					   }}
+      >
 
        I'm a growth marketer at <Link className="highlight1" href="https://demandcurve.com" target="_blank">Demand Curve (YC S19)</Link>. Before joining the team, I helped raise a seed venture capital fund in San Francisco.
-	      </h3>
-<b
+	      </hp>
+/*<b
 style={{
         fontSize: `29px`,
        marginBottom: rhythm(0.4),
-      }}>About</b>
+      }}>About</b>*/
 
 <p>At Penn State I'm studying finance and economics, run club cross country, and am the president of our <Link class="highlight1" target="_blank" href="https://hvcpsu.com/">student vc fund</Link>. During my first two summers of college I interned in <Link class="highlight1" target="_blank" href="http://chathamfinancial.com/">derivatives consulting</Link> and at a <Link href="http://joinpuzzl.com" target="_blank" class="highlight1">FinTech</Link> startup.</p>
 
